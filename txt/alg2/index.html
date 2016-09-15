@@ -2,15 +2,24 @@
 <html lang = "en-US">
 <head>
   <title>A website</title>
+  <script>
+    function changePdf() {
+      document.getElementById("main_pdf").data="http://my.hrw.com/math06_07/student/pdf/english/alg2/alg2_07_"+
+      ("000"+document.getElementByName("page_num")[0].value).slice(-4)+".pdf"
+    }
+  </script>
 </head>
 <body>
   <div>
     <p>Type in a page number to get that page of the Algebra II online textbook, or go to ndimov.github.io/txt/alg2/NN</p>
   </div>
   <div>
-    <form>
+    <form onsubmit="changePdf()">
       Page number <input type="text" name="page_num"> <input type="submit" value="Go">
     </form>
+  </div>
+  <div>
+    <object id="main_pdf" data="" type="application/pdf"></object>
   </div>
 </body>
 </html>
