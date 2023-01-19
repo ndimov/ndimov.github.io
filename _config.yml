@@ -31,6 +31,8 @@ github_username:  ndimov
 theme: minima
 plugins:
   - jekyll-feed
+sass:
+  sass_dir: _sass
 
 domain: ndimov.com
 url: https://ndimov.com

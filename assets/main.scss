@@ -2,9 +2,29 @@
 ---
 
 @import "{{ site.theme }}";
+@import "variables";
+@import "home";
+@import "section";
+
 
 .site-title {
     font-weight: normal;
+    color: $accent !important;
+}
+
+.site-nav {
+    @include media-query($on-palm) {
+        background-color: $accentDarker;
+        border: 1px solid $accent;
+    }
+}
+
+.page-link {
+    color: $text !important;
+}
+
+header {
+    border-top: none !important;
 }
 
 .post-title {
