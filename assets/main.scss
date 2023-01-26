@@ -14,8 +14,12 @@
 
 .site-nav {
     @include media-query($on-palm) {
-        background-color: $accentDarker;
-        border: 1px solid $accent;
+        background-color: $accent;
+        border: 1px solid $darkGray;
+
+        .menu-icon > svg {
+            fill: $darkGray;
+        }
     }
 }
 
@@ -35,6 +39,28 @@ header {
     margin-bottom: 20px;
 }
 
+.post-meta {
+    color: $gray;
+}
+
 hr {
     margin-bottom: 15px;
+}
+
+// spoiler logic largely copied from mh-2023 repo
+.spoiler {
+    background: $black;
+    border-radius: 4px;
+    padding: 0 4px;
+    transition: all 300ms ease-in-out;
+}
+
+.spoiler:not(:hover) {
+    color: $black !important;
+    /* important to override visited links */
+}
+
+.spoiler:hover,
+.spoiler:focus {
+    background: rgba(0, 0, 0, 0.2);
 }

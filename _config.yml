@@ -36,6 +36,7 @@ sass:
 
 domain: ndimov.com
 url: https://ndimov.com
+permalink: /blog/:title
 
 # Exclude from processing.
 # The following items will not be processed, by default.
