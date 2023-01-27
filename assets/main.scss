@@ -46,6 +46,17 @@ header {
     margin-bottom: -10px;
 }
 
+.post-listing {
+    display: flex;
+    justify-content: normal;
+    align-items: baseline;
+    gap: 10px;
+}
+
+.post-list li {
+    margin-bottom: 0px;
+}
+
 hr {
     margin-bottom: 15px;
 }
