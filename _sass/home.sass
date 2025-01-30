@@ -3,7 +3,7 @@ body
   background: #fff
 
 body
-  background: #18161a // linear-gradient(to right, #1f1b21 0%, #2d2730 100%)
+  background: $background
   color: $text
   font-size: 18px
   margin: auto
@@ -30,7 +30,7 @@ a
 
 p,
 span
-  line-height: 1.5
+  line-height: 1.6
 
 h1
   font-size: 2em
@@ -41,3 +41,7 @@ strong
 
   a
     border: none
+
+p, h4
+  + ul
+    margin-top: -15px

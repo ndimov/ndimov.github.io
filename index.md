@@ -4,15 +4,27 @@ title: About Me
 # permalink: /about/
 ---
 
-[resume](/resume.pdf) • [linkedin](https://www.linkedin.com/in/nicholai-dimov/) • [github](https://github.com/ndimov) \
+[linkedin](https://www.linkedin.com/in/nicholai-dimov/) • [github](https://github.com/ndimov) • [resume](/resume.pdf) \
 Feel free to reach out! &nbsp; discord: @nicholai.d • email: nicholai at this domain
 
 ---
 
-Hi! I'm Nicholai, and I care about building quality solutions with a lasting impact. I'm passionate about solving interesting problems, whether it's in software engineering, math, or puzzles. Currently, I am helping build [Clay](https://www.clay.com/) in New York, the world's best creative go-to-market platform.
+Hi! I'm Nicholai, and I care about building quality solutions with a clear impact. I write software at [Clay](https://www.clay.com/) in New York, the platform for creative go-to-market teams (and with a $1.25B valuation, growing fast!).
+<!-- I'm passionate about solving interesting problems, whether it's in software engineering, math, or puzzles. -->
 
-Before that, I had several summer internships. Most recently, I worked on computer vision infrastructure at [Matroid](https://matroid.com/), a startup in Palo Alto. The previous summer, I worked at Meta in Seattle optimizing the allocations of millions of servers as a member of the Algorithmic Optimization team. I graduated in May 2024 from WashU with a combined Bachelor's & Master's degree in Computer Science and Mathematics and a minor in Linguistics.
+Previously, I've been at:
+* [Matroid](https://matroid.com/) in Palo Alto, scaling computer vision infrastructure
+* Meta in Seattle, optimizing datacenter rack placement
+* WashU, BS/MS '24 in Computer Science and Mathematics. Minor in Linguistics
 
-My work on puzzles includes spending close to a year [building the 2023 MIT Mystery Hunt]({% post_url 2023-01-26-mitmh-2023 %}) with team teammate. If you like maps, check out my puzzle [City Placement](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/city-placement). I was also the founder and president of the [WashU Puzzle Club](https://wustl.presence.io/organization/puzzle-club), which creates and solves crosswords, jigsaw puzzles, logic puzzles, and of course puzzle hunts.
-
-Other activities I enjoy include social dancing, board games, hiking, biking, and exploring new places.
+I love to pack my schedule with a variety of activities, especially:
+* Dance
+    - Fusion, Brazilian Zouk, [Country Line](nyc-line), Contact Improv, etc.
+* Puzzles
+    - Puzzle hunts are great! I once spent close to a year [building the 2023 MIT Mystery Hunt]({% post_url 2023-01-26-mitmh-2023 %}) with team teammate. If you like maps, check out my puzzle [City Placement](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/city-placement).
+    - I also love logic puzzle contests ([some](https://gp.worldpuzzle.org/) [favorites](https://logicmastersindia.com/)), solving crosswords, and more!
+* Biking everywhere
+* Singing
+* Board games
+* Hiking
+* Exploring new places (near and far)
