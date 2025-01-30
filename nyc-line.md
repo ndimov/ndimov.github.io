@@ -76,6 +76,6 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 
 ---
 
-[Contact me](https://ndimov.com/about) if you have any suggestions, more information, questions, or comments!
+[Contact me](https://ndimov.com/) if you have any suggestions, more information, questions, or comments!
 
 Last updated: Jan 29, 2025
