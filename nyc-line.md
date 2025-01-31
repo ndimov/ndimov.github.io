@@ -74,8 +74,16 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-calendar"></i> Varies, approx. third Friday of the month
 - <i class="fa-fw fa-solid fa-location-dot"></i> Gottscheer Hall, Ridgewood, Queens
 
+#### [2stepnyc](https://www.instagram.com/2stepnyc/)
+- <i class="fa-fw fa-solid fa-graduation-cap"></i> Tybaldt Ulrich teaches bar-friendly country two-step with a sprinkle of Waltz, Polka, and Swing. "Inclusive and fun!"
+- <i class="fa-fw fa-regular fa-calendar"></i> Mondays
+- <i class="fa-fw fa-regular fa-clock"></i> 8-9:30 pm
+- <i class="fa-fw fa-solid fa-location-dot"></i> New York Center for Creativity & Dance, East Village, Manhattan
+
 ---
 
 [Contact me](https://ndimov.com/) if you have any suggestions, more information, questions, or comments!
 
-Last updated: Jan 29, 2025
+For **other dance styles**, check out Fusion Dance NYC's [comprehensive links](https://fusiondancenyc.com/dancenyc/).
+
+Last updated: Jan 30, 2025

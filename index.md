@@ -19,7 +19,7 @@ Previously, I've been at:
 
 I love to pack my schedule with a variety of activities, especially:
 * Dance
-    - Fusion, Brazilian Zouk, [Country Line](nyc-line), Contact Improv, etc.
+    - [Fusion](https://www.pearling.org/dance/what-is-fusion-dance), Brazilian Zouk, [Country Line](nyc-line), Contact Improv, etc.
 * Puzzles
     - Puzzle hunts are great! I once spent close to a year [building the 2023 MIT Mystery Hunt]({% post_url 2023-01-26-mitmh-2023 %}) with team teammate. If you like maps, check out my puzzle [City Placement](https://puzzles.mit.edu/2023/interestingthings.museum/puzzles/city-placement).
     - I also love logic puzzle contests ([some](https://gp.worldpuzzle.org/) [favorites](https://logicmastersindia.com/)), solving crosswords, and more!
