@@ -23,7 +23,7 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-solid fa-ticket"></i> Tickets can be reserved online at noon the day before and usually sell out in a minute. Limited availability at the door.
 
 #### [Buck Wild](https://www.instagram.com/buckwildline/)
-- <i class="fa-fw fa-solid fa-circle-info"></i> Line dancing in a country bar. Two lessons each night
+- <i class="fa-fw fa-solid fa-circle-info"></i> Line dancing in a country bar. Two lessons each night. They love song swaps.
 - <i class="fa-fw fa-regular fa-calendar"></i> Most Sundays
 - <i class="fa-fw fa-regular fa-clock"></i> 7-10 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> Desert 5 Spot, Williamsburg, Brooklyn
@@ -31,7 +31,7 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 
 #### [Big Apple Ranch](https://www.bigappleranch.com/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Mix of Two Step, West Coast Swing, Line Dancing (some songs have line dancers in the middle and two-steppers on the outside). Wholesome, diverse crowd; some have been doing this for decades. Cool performance(s) at the middle of the night.
-- <i class="fa-fw fa-regular fa-calendar"></i> 2nd Saturday of the month (except Valentine's edition on Feb 15, NOT Feb 8)
+- <i class="fa-fw fa-regular fa-calendar"></i> 2nd Saturday of the month
 - <i class="fa-fw fa-regular fa-clock"></i> 8 pm Beginning two-step lesson, 8:30 pm Line dance lesson, 9-12:30 am Open dancing
 - <i class="fa-fw fa-solid fa-location-dot"></i> EPA Dance Studio, Hell's Kitchen, Manhattan
 - <i class="fa-fw fa-solid fa-ticket"></i> $20 tickets, cash-only, at the door. Free on your birthday month
@@ -43,17 +43,19 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-clock"></i> ~8 pm lessons, 9 pm live music
 - <i class="fa-fw fa-solid fa-location-dot"></i> Alphaville, Bushwick, Brooklyn
 
-#### [Common Country](https://www.instagram.com/commoncountrybar/)
-- <i class="fa-fw fa-solid fa-circle-info"></i> Newest country bar in the city. Hosts line dance and two-stepping?
-- <i class="fa-fw fa-regular fa-calendar"></i> Tuesdays?
-- <i class="fa-fw fa-solid fa-location-dot"></i> Common Country Bar, Kips Bay, Manhattan
+#### [Hill Country Line](https://www.instagram.com/hillcountryline/)
+- <i class="fa-fw fa-solid fa-circle-info"></i> Line dancing, with lessons on the hour and a two-step break to get some delicious BBQ! Has a Google Form for song requests
+- <i class="fa-fw fa-regular fa-calendar"></i> Every Tuesday
+- <i class="fa-fw fa-regular fa-clock"></i> 7-10 pm
+- <i class="fa-fw fa-solid fa-location-dot"></i> Hill Country Barbecue Market, NoMad, Manhattan
+- <i class="fa-fw fa-solid fa-ticket"></i> $5 in advance or at the door
 
 #### [Molly & June's Honky Tonk](https://www.instagram.com/mollyandjunes/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Two-stepping and line dance lessons with live music.
 - <i class="fa-fw fa-regular fa-calendar"></i> Monthly-ish, usually on Fridays?
 - <i class="fa-fw fa-regular fa-clock"></i> 6 pm doors, 7 pm lessons, 8-10 pm live band
 - <i class="fa-fw fa-solid fa-location-dot"></i> Sounds of Brazil, West Village, Manhattan
-- <i class="fa-fw fa-solid fa-ticket"></i> Free entry with RSVP before 6:30 pm.
+- <i class="fa-fw fa-solid fa-ticket"></i> Free entry before 6:30 pm with advance RSVP
 
 #### [The Slide Stops](https://www.instagram.com/the_slide_stops/) is a country band that plays around the city. Their gigs often have dancing and lessons, such as:
 
@@ -80,10 +82,14 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-clock"></i> 8-9:30 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> New York Center for Creativity & Dance, East Village, Manhattan
 
+### Other Resources
+
+The [NYC Line Dance doc](https://docs.google.com/spreadsheets/d/1uowaEp8StV3EdPoNH1Rthaz1v_K2wDrw0091xj1JAKU/) is a database with demo videos, tutorials, and a NYC event listing similar to this one. Cat updates it regularly with new demos from local events.
+
+For **other dance styles**, check out Fusion Dance NYC's [comprehensive links](https://fusiondancenyc.com/dancenyc/).
+
 ---
 
 [Contact me](https://ndimov.com/) if you have any suggestions, more information, questions, or comments!
 
-For **other dance styles**, check out Fusion Dance NYC's [comprehensive links](https://fusiondancenyc.com/dancenyc/).
-
-Last updated: Jan 30, 2025
+Last updated: Apr 12, 2025
