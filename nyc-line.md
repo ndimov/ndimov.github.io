@@ -3,21 +3,21 @@ layout: page
 title: NYC Line Dance
 ---
 
-NYC has a lot of country line dance and two-step events! This page describes the regular events in the city.
+NYC has a lot of country line dance and two-step events! This page describes the regular events in the city. For dance demos, tutorials, and more, see [the NYC Line Dance Resource](https://docs.google.com/spreadsheets/d/1uowaEp8StV3EdPoNH1Rthaz1v_K2wDrw0091xj1JAKU).
 
 Events are roughly sorted by popularity among regular dancers, my personal familiarity, and event frequency. Check their website and instagram for updates, since dates often change and sometimes they host one-off popup events (especially in summer). Instagram is also great for videos and pictures to get a vibe of what each event is like!
 
 ### Event Listing
 
 #### [Stud Country](https://studcountry.us/NYC)
-- <i class="fa-fw fa-solid fa-circle-info"></i> Queer Church of Line Dance and Two Stepping. Party atmosphere
-- <i class="fa-fw fa-regular fa-calendar"></i> Most Tuesdays. Dates often change; check the calendar
+- <i class="fa-fw fa-solid fa-circle-info"></i> Queer Church of Line Dance and Two Stepping. Party atmosphere, great for newcomers
+- <i class="fa-fw fa-regular fa-calendar"></i> Most Thursdays. Dates often change; check the calendar
 - <i class="fa-fw fa-solid fa-location-dot"></i> Multiple venues, Manhattan and Brooklyn
 - <i class="fa-fw fa-solid fa-graduation-cap"></i> Also hosts various class series and workshops throughout the month
 
 #### [uevrline](https://www.uevrline.nyc/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Crowded line dancing behind a Ukranian restaurant. Two lessons each night, often to new choreos.
-- <i class="fa-fw fa-regular fa-calendar"></i> Every Wednesday (advanced); Some Tuesdays (beginner)
+- <i class="fa-fw fa-regular fa-calendar"></i> Every Wednesday (intermediate/advanced); Some Tuesdays (beginner)
 - <i class="fa-fw fa-regular fa-clock"></i> 8-10 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> Ukranian East Village Restaurant, East Village, Manhattan
 - <i class="fa-fw fa-solid fa-ticket"></i> Tickets can be reserved online at noon the day before and usually sell out in a minute. Limited availability at the door.
@@ -28,6 +28,14 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-clock"></i> 7-10 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> Desert 5 Spot, Williamsburg, Brooklyn
 - <i class="fa-fw fa-solid fa-ticket"></i> Tickets usually sell out online, sometimes available at the door.
+- <i class="fa-fw fa-solid fa-graduation-cap"></i> Come to **Baby Buck** Wednesdays 6-8 pm for "a soft launch into line dancing"
+
+#### [Hill Country Line](https://www.instagram.com/hillcountryline/)
+- <i class="fa-fw fa-solid fa-circle-info"></i> Line dancing, with lessons on the hour and a two-step break to get some delicious BBQ! Has a Google Form for song requests
+- <i class="fa-fw fa-regular fa-calendar"></i> Every Tuesday
+- <i class="fa-fw fa-regular fa-clock"></i> 7-10 pm
+- <i class="fa-fw fa-solid fa-location-dot"></i> Hill Country Barbecue Market, NoMad, Manhattan
+- <i class="fa-fw fa-solid fa-ticket"></i> $5 in advance or at the door
 
 #### [Big Apple Ranch](https://www.bigappleranch.com/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Mix of Two Step, West Coast Swing, Line Dancing (some songs have line dancers in the middle and two-steppers on the outside). Wholesome, diverse crowd; some have been doing this for decades. Cool performance(s) at the middle of the night.
@@ -43,19 +51,18 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-clock"></i> ~8 pm lessons, 9 pm live music
 - <i class="fa-fw fa-solid fa-location-dot"></i> Alphaville, Bushwick, Brooklyn
 
-#### [Hill Country Line](https://www.instagram.com/hillcountryline/)
-- <i class="fa-fw fa-solid fa-circle-info"></i> Line dancing, with lessons on the hour and a two-step break to get some delicious BBQ! Has a Google Form for song requests
-- <i class="fa-fw fa-regular fa-calendar"></i> Every Tuesday
-- <i class="fa-fw fa-regular fa-clock"></i> 7-10 pm
-- <i class="fa-fw fa-solid fa-location-dot"></i> Hill Country Barbecue Market, NoMad, Manhattan
-- <i class="fa-fw fa-solid fa-ticket"></i> $5 in advance or at the door
-
 #### [Molly & June's Honky Tonk](https://www.instagram.com/mollyandjunes/)
-- <i class="fa-fw fa-solid fa-circle-info"></i> Two-stepping and line dance lessons with live music.
+- <i class="fa-fw fa-solid fa-circle-info"></i> Two-stepping and line dance lessons with live music. Club vibe - bring earplugs!
 - <i class="fa-fw fa-regular fa-calendar"></i> Monthly-ish, usually on Fridays?
 - <i class="fa-fw fa-regular fa-clock"></i> 6 pm doors, 7 pm lessons, 8-10 pm live band
 - <i class="fa-fw fa-solid fa-location-dot"></i> Sounds of Brazil, West Village, Manhattan
 - <i class="fa-fw fa-solid fa-ticket"></i> Free entry before 6:30 pm with advance RSVP
+
+#### [B Steps](https://www.instagram.com/bsteps.nyc/)
+- <i class="fa-fw fa-solid fa-circle-info"></i> Beginner line dancing
+- <i class="fa-fw fa-regular fa-calendar"></i> Every other Monday
+- <i class="fa-fw fa-regular fa-clock"></i> 7 pm
+- <i class="fa-fw fa-solid fa-location-dot"></i> The Windjammer Bar, Ridgewood, Queens
 
 #### [The Slide Stops](https://www.instagram.com/the_slide_stops/) is a country band that plays around the city. Their gigs often have dancing and lessons, such as:
 
@@ -82,9 +89,18 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-clock"></i> 8-9:30 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> New York Center for Creativity & Dance, East Village, Manhattan
 
+#### NYC Metro Area line dancing
+* [Tap Room Country](https://www.instagram.com/taproomcountry/)
+    - <i class="fa-fw fa-solid fa-circle-info"></i> Long Island’s biggest country night. There's often a crowd from NYC taking the train there.
+    - <i class="fa-fw fa-regular fa-calendar"></i> Every Thursday
+    - <i class="fa-fw fa-regular fa-clock"></i> 8 pm - 12 am
+    - <i class="fa-fw fa-solid fa-location-dot"></i> Tap Room, Rockville Center (right off the LIRR)
+
+* [Fancy Feet Line Dancing](https://www.facebook.com/fancyfeetlinedancing/events) hosts various events in NJ
+
 ### Other Resources
 
-The [NYC Line Dance doc](https://docs.google.com/spreadsheets/d/1uowaEp8StV3EdPoNH1Rthaz1v_K2wDrw0091xj1JAKU/) is a database with demo videos, tutorials, and a NYC event listing similar to this one. Cat updates it regularly with new demos from local events.
+The [NYC Line Dance Resource](https://docs.google.com/spreadsheets/d/1uowaEp8StV3EdPoNH1Rthaz1v_K2wDrw0091xj1JAKU/) is a database with demo videos, tutorials, and a NYC event listing similar to this one. Cat updates it regularly with new demos from local events.
 
 For **other dance styles**, check out Fusion Dance NYC's [comprehensive links](https://fusiondancenyc.com/dancenyc/).
 
@@ -92,4 +108,4 @@ For **other dance styles**, check out Fusion Dance NYC's [comprehensive links](h
 
 [Contact me](https://ndimov.com/) if you have any suggestions, more information, questions, or comments!
 
-Last updated: Apr 12, 2025
+Last updated: June 29, 2025
