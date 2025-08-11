@@ -4,18 +4,12 @@ title: About Me
 # permalink: /about/
 ---
 
-[linkedin](https://www.linkedin.com/in/nicholai-dimov/) • [github](https://github.com/ndimov) • [resume](/resume.pdf) \
-Feel free to reach out! &nbsp; discord: @nicholai.d • email: nicholai at this domain
+Hi! I'm Nicholai, and I build quality solutions with a clear impact. As a software engineer, I sculpt the search experience at [Clay](https://www.clay.com/), the platform for creative go-to-market teams. Our [Series C announcement](https://clay.com/series-c) explains the impact and future of GTM engineering, a new career path where AI amplifies human creativity.
 
----
-
-Hi! I'm Nicholai, and I care about building quality solutions with a clear impact. I write software at [Clay](https://www.clay.com/) in New York, the platform for creative go-to-market teams (and with a $1.25B valuation, growing fast!).
-<!-- I'm passionate about solving interesting problems, whether it's in software engineering, math, or puzzles. -->
-
-Previously, I've been at:
+Before NYC, I've been at:
 * [Matroid](https://matroid.com/) in Palo Alto, scaling computer vision infrastructure
 * Meta in Seattle, optimizing datacenter rack placement
-* WashU, BS/MS '24 in Computer Science and Mathematics. Minor in Linguistics
+* WashU in St. Louis, BS/MS '24 in Computer Science and Mathematics. Minor in Linguistics
 
 I love to pack my schedule with a variety of activities, especially:
 * Dance
@@ -28,3 +22,14 @@ I love to pack my schedule with a variety of activities, especially:
 * Board games
 * Hiking
 * Exploring new places (near and far)
+
+### Contact Me
+
+Links:
+* [LinkedIn](https://www.linkedin.com/in/nicholai-dimov/)
+* [GitHub](https://github.com/ndimov)
+* [Résumé](/resume.pdf) (not up-to-date)
+
+Please reach out:
+* discord: @nicholai.d
+* email: nicholai at this domain
