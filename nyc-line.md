@@ -3,17 +3,18 @@ layout: page
 title: NYC Line Dance
 ---
 
-NYC has a lot of country line dance and two-step events! This page describes the regular events in the city. For dance demos, tutorials, and more, see [the NYC Line Dance Resource](https://docs.google.com/spreadsheets/d/1uowaEp8StV3EdPoNH1Rthaz1v_K2wDrw0091xj1JAKU).
+NYC has a lot of country line dance and two-step events! This page describes the regular events in the city. For dance demos, tutorials, and more, see [the NYC Line Dance Resource](http://linedance.nyc/).
 
 Events are roughly sorted by popularity among regular dancers, my personal familiarity, and event frequency. Check their website and instagram for updates, since dates often change and sometimes they host one-off popup events (especially in summer). Instagram is also great for videos and pictures to get a vibe of what each event is like!
 
 ### Event Listing
 
-#### [Stud Country](https://studcountry.us/NYC)
-- <i class="fa-fw fa-solid fa-circle-info"></i> Queer Church of Line Dance and Two Stepping. Party atmosphere, great for newcomers
+#### [SCUFF](https://scuff.us)
+- <i class="fa-fw fa-solid fa-circle-info"></i> Queer Country Dancing. Party atmosphere, great for newcomers.
 - <i class="fa-fw fa-regular fa-calendar"></i> Most Thursdays. Dates often change; check the calendar
 - <i class="fa-fw fa-solid fa-location-dot"></i> Multiple venues, Manhattan and Brooklyn
 - <i class="fa-fw fa-solid fa-graduation-cap"></i> Also hosts various class series and workshops throughout the month
+- <i class="fa-fw fa-solid fa-history"></i> [Stud Country co-founders split in 2025](https://www.instagram.com/p/DOMhVrFEi4D/?img_index=2), so NYC and SF events are now under SCUFF.
 
 #### [uevrline](https://www.uevrline.nyc/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Crowded line dancing behind a Ukranian restaurant. Two lessons each night, often to new choreos.
@@ -58,6 +59,12 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-solid fa-location-dot"></i> Sounds of Brazil, West Village, Manhattan
 - <i class="fa-fw fa-solid fa-ticket"></i> Free entry before 6:30 pm with advance RSVP
 
+#### [Rogers Rodeo](https://www.instagram.com/rogers.rodeo/)
+- <i class="fa-fw fa-solid fa-circle-info"></i> Queer line dancing
+- <i class="fa-fw fa-regular fa-calendar"></i> Monthly on Mondays
+- <i class="fa-fw fa-regular fa-clock"></i> 7:30-10:30 pm
+- <i class="fa-fw fa-solid fa-location-dot"></i> Whoopsie Daisy, Crown Heights, Brooklyn
+
 #### [B Steps](https://www.instagram.com/bsteps.nyc/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Beginner line dancing
 - <i class="fa-fw fa-regular fa-calendar"></i> Every other Monday
@@ -82,6 +89,12 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-solid fa-circle-info"></i> Live bands with "2-step & line dancing encouraged"
 - <i class="fa-fw fa-regular fa-calendar"></i> Varies, approx. third Friday of the month
 - <i class="fa-fw fa-solid fa-location-dot"></i> Gottscheer Hall, Ridgewood, Queens
+
+#### [Line Dance Conditioning Class](https://evvieallisonscheduling.as.me/schedule/a626b67f)
+- <i class="fa-fw fa-solid fa-graduation-cap"></i> Evvie Allison teaches Pilates-based movement to make line dancing feel good
+- <i class="fa-fw fa-regular fa-calendar"></i> Sundays
+- <i class="fa-fw fa-regular fa-clock"></i> 12-1pm conditioning, 1-2pm dancing
+- <i class="fa-fw fa-solid fa-location-dot"></i> Gibney 280 Broadway, Lower Manhattan
 
 #### [2stepnyc](https://www.instagram.com/2stepnyc/)
 - <i class="fa-fw fa-solid fa-graduation-cap"></i> Tybaldt Ulrich teaches bar-friendly country two-step with a sprinkle of Waltz, Polka, and Swing. "Inclusive and fun!"
@@ -108,4 +121,4 @@ For **other dance styles**, check out Fusion Dance NYC's [comprehensive links](h
 
 [Contact me](https://ndimov.com/) if you have any suggestions, more information, questions, or comments!
 
-Last updated: June 29, 2025
+Last updated: October 12, 2025
