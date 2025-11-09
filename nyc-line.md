@@ -7,7 +7,7 @@ NYC has a lot of country line dance and two-step events! This page describes the
 
 Events are roughly sorted by popularity among regular dancers, my personal familiarity, and event frequency. Check their website and instagram for updates, since dates often change and sometimes they host one-off popup events (especially in summer). Instagram is also great for videos and pictures to get a vibe of what each event is like!
 
-### Event Listing
+### Dance Events
 
 #### [SCUFF](https://scuff.us)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Queer Country Dancing. Party atmosphere, great for newcomers.
@@ -15,13 +15,6 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-solid fa-location-dot"></i> Multiple venues, Manhattan and Brooklyn
 - <i class="fa-fw fa-solid fa-graduation-cap"></i> Also hosts various class series and workshops throughout the month
 - <i class="fa-fw fa-solid fa-history"></i> [Stud Country co-founders split in 2025](https://www.instagram.com/p/DOMhVrFEi4D/?img_index=2), so NYC and SF events are now under SCUFF.
-
-#### [uevrline](https://www.uevrline.nyc/)
-- <i class="fa-fw fa-solid fa-circle-info"></i> Crowded line dancing behind a Ukranian restaurant. Two lessons each night, often to new choreos.
-- <i class="fa-fw fa-regular fa-calendar"></i> Every Wednesday (intermediate/advanced); Some Tuesdays (beginner)
-- <i class="fa-fw fa-regular fa-clock"></i> 8-10 pm
-- <i class="fa-fw fa-solid fa-location-dot"></i> Ukranian East Village Restaurant, East Village, Manhattan
-- <i class="fa-fw fa-solid fa-ticket"></i> Tickets can be reserved online at noon the day before and usually sell out in a minute. Limited availability at the door.
 
 #### [Buck Wild](https://www.instagram.com/buckwildline/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Line dancing in a country bar. Two lessons each night. They love song swaps.
@@ -36,7 +29,7 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-calendar"></i> Every Tuesday
 - <i class="fa-fw fa-regular fa-clock"></i> 7-10 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> Hill Country Barbecue Market, NoMad, Manhattan
-- <i class="fa-fw fa-solid fa-ticket"></i> $5 in advance or at the door
+- <i class="fa-fw fa-solid fa-ticket"></i> $5 in advance. No more door tickets!
 
 #### [Big Apple Ranch](https://www.bigappleranch.com/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Mix of Two Step, West Coast Swing, Line Dancing (some songs have line dancers in the middle and two-steppers on the outside). Wholesome, diverse crowd; some have been doing this for decades. Cool performance(s) at the middle of the night.
@@ -65,9 +58,16 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-clock"></i> 7:30-10:30 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> Whoopsie Daisy, Crown Heights, Brooklyn
 
+#### [Do Si Don'tcha](https://www.instagram.com/dosidontcha/)
+- <i class="fa-fw fa-solid fa-circle-info"></i> Inclusive line dancing as a tool for change. Pony and Paris host "Training Season" (classes), Rookie Nights, and "Game Day" (line events with some country swing) with room to dance!
+- <i class="fa-fw fa-regular fa-calendar"></i> Varies, as events rotate between NYC, LA, and other cities.
+
+#### [uevrline](https://www.uevrline.nyc/)
+- <i class="fa-fw fa-solid fa-circle-info"></i> Crowded line dancing behind the Ukranian East Village Restaurant. [On hiatus until Tenaya finds a new home](https://www.instagram.com/p/DQC9qgTjgIG), but expect a final party in November.
+
 #### [B Steps](https://www.instagram.com/bsteps.nyc/)
 - <i class="fa-fw fa-solid fa-circle-info"></i> Beginner line dancing
-- <i class="fa-fw fa-regular fa-calendar"></i> Every other Monday
+- <i class="fa-fw fa-regular fa-calendar"></i> Every other Monday (summer only?)
 - <i class="fa-fw fa-regular fa-clock"></i> 7 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> The Windjammer Bar, Ridgewood, Queens
 
@@ -90,11 +90,19 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-calendar"></i> Varies, approx. third Friday of the month
 - <i class="fa-fw fa-solid fa-location-dot"></i> Gottscheer Hall, Ridgewood, Queens
 
+### Line and Country Swing Classes
+
 #### [Line Dance Conditioning Class](https://evvieallisonscheduling.as.me/schedule/a626b67f)
 - <i class="fa-fw fa-solid fa-graduation-cap"></i> Evvie Allison teaches Pilates-based movement to make line dancing feel good
 - <i class="fa-fw fa-regular fa-calendar"></i> Sundays
 - <i class="fa-fw fa-regular fa-clock"></i> 12-1pm conditioning, 1-2pm dancing
 - <i class="fa-fw fa-solid fa-location-dot"></i> Gibney 280 Broadway, Lower Manhattan
+
+#### [Horseplay](https://www.instagram.com/horseplaydance/)
+- <i class="fa-fw fa-solid fa-graduation-cap"></i> Steph teaches two-step and country swing in a welcoming environment.
+- <i class="fa-fw fa-regular fa-calendar"></i> Saturdays or Sundays, based on studio availability
+- <i class="fa-fw fa-regular fa-clock"></i> 3-5 pm
+- <i class="fa-fw fa-solid fa-location-dot"></i> New York Center for Creativity & Dance, East Village, Manhattan
 
 #### [2stepnyc](https://www.instagram.com/2stepnyc/)
 - <i class="fa-fw fa-solid fa-graduation-cap"></i> Tybaldt Ulrich teaches bar-friendly country two-step with a sprinkle of Waltz, Polka, and Swing. "Inclusive and fun!"
@@ -102,7 +110,7 @@ Events are roughly sorted by popularity among regular dancers, my personal famil
 - <i class="fa-fw fa-regular fa-clock"></i> 8-9:30 pm
 - <i class="fa-fw fa-solid fa-location-dot"></i> New York Center for Creativity & Dance, East Village, Manhattan
 
-#### NYC Metro Area line dancing
+### NYC Metro Area line dancing
 * [Tap Room Country](https://www.instagram.com/taproomcountry/)
     - <i class="fa-fw fa-solid fa-circle-info"></i> Long Island’s biggest country night. There's often a crowd from NYC taking the train there.
     - <i class="fa-fw fa-regular fa-calendar"></i> Every Thursday
@@ -121,4 +129,4 @@ For **other dance styles**, check out Fusion Dance NYC's [comprehensive links](h
 
 [Contact me](https://ndimov.com/) if you have any suggestions, more information, questions, or comments!
 
-Last updated: October 12, 2025
+Last updated: November 9, 2025

@@ -11,7 +11,7 @@ Before NYC, I've been at:
 * Meta in Seattle, optimizing datacenter rack placement
 * WashU in St. Louis, BS/MS '24 in Computer Science and Mathematics. Minor in Linguistics
 
-I love to pack my schedule with a variety of activities, especially:
+I get joy from doing a large variety of activities, especially:
 * Dance
     - [Fusion](https://www.pearling.org/dance/what-is-fusion-dance), Brazilian Zouk, [Country Line](nyc-line), Contact Improv, etc.
 * Puzzles
